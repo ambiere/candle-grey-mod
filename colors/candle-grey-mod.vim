@@ -40,11 +40,11 @@ hi Folded          ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#40
 " -------------------------
 " - Window/Tab delimiters -
 " -------------------------
-hi VertSplit       ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#0D0D0D    gui=NONE
-hi ColorColumn     ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#0D0D0D    gui=NONE
-hi TabLine         ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#0D0D0D    gui=NONE
-hi TabLineFill     ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#0D0D0D    gui=NONE
-hi TabLineSel      ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#0D0D0D    gui=NONE
+hi VertSplit       ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
+hi ColorColumn     ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#101010    gui=NONE
+hi TabLine         ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#101010    gui=NONE
+hi TabLineFill     ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#101010    gui=NONE
+hi TabLineSel      ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#101010    gui=NONE
 
 " -------------------------------
 " - File Navigation / Searching -
@@ -57,7 +57,7 @@ hi IncSearch       ctermfg=White        ctermbg=210      cterm=NONE    guifg=#10
 " - Prompt/Status -
 " -----------------
 hi StatusLine      ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
-hi StatusLineNC    ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#0D0D0D    gui=NONE
+hi StatusLineNC    ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#101010    gui=NONE
 hi WildMenu        ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
 hi Question        ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
 hi Title           ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
@@ -70,9 +70,9 @@ hi MoreMsg         ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#D9
 hi MatchParen      ctermfg=210          ctermbg=DarkGray     cterm=NONE    guifg=#D99962    guibg=#404040    gui=NONE
 hi Visual          ctermfg=White        ctermbg=DarkGray     cterm=NONE    guifg=#F2F2F2    guibg=#404040    gui=NONE
 hi VisualNOS       ctermfg=White        ctermbg=DarkGray     cterm=NONE    guifg=#F2F2F2    guibg=#404040    gui=NONE
-hi NonText         ctermfg=Black        ctermbg=Black        cterm=NONE    guifg=#101010    guibg=#0D0D0D    gui=NONE
+hi NonText         ctermfg=Black        ctermbg=Black        cterm=NONE    guifg=#101010    guibg=#101010    gui=NONE
 
-hi Todo            ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
+hi Todo            ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
 hi Underlined      ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi Error           ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
 hi ErrorMsg        ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
@@ -153,3 +153,4 @@ hi SpellBad        ctermfg=210      ctermbg=Black    cterm=NONE    guifg=#D99962
 hi SpellCap        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi SpellLocal      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi SpellRare       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
+
