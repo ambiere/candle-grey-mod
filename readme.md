@@ -1,4 +1,4 @@
-# Candle Grey Mod
+## Candle Grey Mod
 
 >Modified dark monochrome colorscheme for vim with a simple accent color
 
