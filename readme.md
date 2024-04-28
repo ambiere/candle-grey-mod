@@ -4,7 +4,8 @@
 
 Original: [candle-grey](https://github.com/aditya-azad/candle-grey)
 
-### Installation: lazyvim
+
+### Installation
 
 ```bash
 {
@@ -17,3 +18,7 @@ Original: [candle-grey](https://github.com/aditya-azad/candle-grey)
   },
 }
 ```
+
+### License
+
+[MIT license](https://github.com/ambiere/candle-grey-mod/main/blob/license)
