@@ -21,4 +21,4 @@ Original: [candle-grey](https://github.com/aditya-azad/candle-grey)
 
 ### License
 
-[MIT license](https://github.com/ambiere/candle-grey-mod/main/blob/license)
+[MIT license](https://github.com/ambiere/candle-grey-mod/blob/main/license)
