@@ -23,6 +23,7 @@ let g:colors_name="candle-grey"
 " Editor settings
 " --------------------------------
 hi Normal          ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
+hi EndOfBuffer     ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi Cursor          ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi CursorLine      ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi LineNr          ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
@@ -85,7 +86,7 @@ hi WhiteSpace      ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#40
 " Variable types
 " --------------------------------
 hi Constant        ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
-hi String          ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#99FFE4    guibg=#101010    gui=NONE
+hi String          ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
 hi StringDelimiter ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
 hi Character       ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
 hi Number          ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
