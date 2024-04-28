@@ -93,7 +93,7 @@ hi Boolean         ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C
 hi Float           ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#0D0D0D    gui=NONE
 
 hi Identifier      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#0D0D0D    gui=NONE
-hi Function        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#0D0D0D    gui=NONE
+hi Function        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#0D0D0D    gui=NONE
 
 " --------------------------------
 " Language constructs
@@ -113,12 +113,6 @@ hi Tag             ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2
 hi Delimiter       ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#0D0D0D    gui=NONE
 hi SpecialComment  ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#0D0D0D    gui=NONE
 hi Debug           ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#0D0D0D    gui=NONE
-
-
-syntax region JsFunction start="function" end="}" contained contains=JsThis
-syntax match JsThis "\<this\>" contained
-
-hi JsThis          ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#0D0D0D    gui=NONE
 
 
 " ----------
