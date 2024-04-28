@@ -7,6 +7,7 @@ Original: [candle-grey](https://github.com/aditya-azad/candle-grey)
 
 ### Installation
 
+Plugin manager: `Lazyvim`
 ```bash
 {
     "ambiere/candle-grey-mod",
