@@ -1,20 +1,18 @@
-## Candle Grey Mod
+## Dark Monochrome
 
->Modified dark monochrome colorscheme for vim with a simple accent color
-
-Original: [candle-grey](https://github.com/aditya-azad/candle-grey)
-
+>Dark monochrome colorscheme for vim with a simple accent color
+inspired by vesper colorscheme.
 
 ### Installation
 
 Plugin manager: `Lazyvim`
 ```bash
 {
-    "ambiere/candle-grey-mod",
-    name = "candle-grey-mod",
+    "ambiere/dark-mono",
+    name = "dark-mono",
     priority = 1000,
     config = function()
-      vim.cmd([[colorscheme candle-grey-mod]])
+      vim.cmd([[colorscheme dark-mono]])
     end,
   },
 }
