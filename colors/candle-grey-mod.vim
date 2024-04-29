@@ -1,8 +1,8 @@
-" Name: candle-grey-mod
+" Name: dark-mono 
 " Author: ambiere <itsambiere@gmail.com>
 " Maintainer:  ambiere <itsambiere@gmail.com>
-" Notes: Mod: A dark monochrome colorscheme with a hint of color
-" Original colorscheme: https://github.com/aditya-azad/candle-grey
+" Notes: Dark monochrome colorscheme with a hint of color inspired by vesper
+" colorscheme
 "
 " Colors used
 " #101010
@@ -17,7 +17,7 @@ highlight clear
 if exists("syntax_on")
     syntax reset
 endif
-let g:colors_name="candle-grey"
+let g:colors_name="dark-mono"
 
 " --------------------------------
 " Editor settings
@@ -165,6 +165,7 @@ hi NeoTreeIndentMarker      ctermfg=White    ctermbg=Black    cterm=NONE    guif
 hi NeoTreeDotfile           ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
 hi NeoTreeDirectoryName     ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
 hi NeoTreeGitUnstaged       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#FFC799    guibg=#101010    gui=NONE
+hi NeoTreeGitStaged         ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
 
 
 " --------------------------------
