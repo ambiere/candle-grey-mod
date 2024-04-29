@@ -9,7 +9,7 @@
 " #404040
 " #8C8C8C
 " #F2F2F2
-" #D99962
+" #FFC799
 
 set background=dark
 
@@ -50,29 +50,29 @@ hi TabLineSel      ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#10
 " - File Navigation / Searching -
 " -------------------------------
 hi Directory       ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
-hi Search          ctermfg=White        ctermbg=210      cterm=NONE    guifg=#101010    guibg=#D99962    gui=NONE
-hi IncSearch       ctermfg=White        ctermbg=210      cterm=NONE    guifg=#101010    guibg=#D99962    gui=NONE
+hi Search          ctermfg=White        ctermbg=210      cterm=NONE    guifg=#101010    guibg=#FFC799    gui=NONE
+hi IncSearch       ctermfg=White        ctermbg=210      cterm=NONE    guifg=#101010    guibg=#FFC799    gui=NONE
 
 " -----------------
 " - Prompt/Status -
 " -----------------
-hi StatusLine      ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
+hi StatusLine      ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#FFC799    guibg=#101010    gui=NONE
 hi StatusLineNC    ctermfg=Black        ctermbg=Black    cterm=NONE    guifg=#101010    guibg=#101010    gui=NONE
-hi WildMenu        ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
+hi WildMenu        ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#FFC799    guibg=#101010    gui=NONE
 hi Question        ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
 hi Title           ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi ModeMsg         ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
-hi MoreMsg         ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
+hi MoreMsg         ctermfg=210          ctermbg=Black    cterm=NONE    guifg=#FFC799    guibg=#101010    gui=NONE
 
 " --------------
 " - Visual aid -
 " --------------
-hi MatchParen      ctermfg=210          ctermbg=DarkGray     cterm=NONE    guifg=#D99962    guibg=#404040    gui=NONE
+hi MatchParen      ctermfg=210          ctermbg=DarkGray     cterm=NONE    guifg=#FFC799    guibg=#404040    gui=NONE
 hi Visual          ctermfg=White        ctermbg=DarkGray     cterm=NONE    guifg=#F2F2F2    guibg=#404040    gui=NONE
 hi VisualNOS       ctermfg=White        ctermbg=DarkGray     cterm=NONE    guifg=#F2F2F2    guibg=#404040    gui=NONE
 hi NonText         ctermfg=Black        ctermbg=Black        cterm=NONE    guifg=#101010    guibg=#101010    gui=NONE
 
-hi Todo            ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
+hi Todo            ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#FFC799    guibg=#101010    gui=NONE
 hi Underlined      ctermfg=White        ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi Error           ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
 hi ErrorMsg        ctermfg=DarkGray     ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
@@ -149,7 +149,7 @@ hi PmenuThumb      ctermfg=Gray     ctermbg=Black    cterm=NONE    guifg=#8C8C8C
 " --------------------------------
 " Spelling
 " --------------------------------
-hi SpellBad        ctermfg=210      ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
+hi SpellBad        ctermfg=210      ctermbg=Black    cterm=NONE    guifg=#FFC799    guibg=#101010    gui=NONE
 hi SpellCap        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi SpellLocal      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
 hi SpellRare       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2    guibg=#101010    gui=NONE
@@ -158,7 +158,7 @@ hi SpellRare       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2
 " Neo-tree
 " --------------------------------
 hi NeoTreeGitUntracked      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
-hi NeoTreeGitModified       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
+hi NeoTreeGitModified       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#FFC799    guibg=#101010    gui=NONE
 hi NeoTreeGitIgnored        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
 hi NeoTreeWinSeparator      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#181818    guibg=#101010    gui=NONE
 hi NeoTreeIndentMarker      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
