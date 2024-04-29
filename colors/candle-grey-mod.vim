@@ -157,12 +157,18 @@ hi SpellRare       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#F2F2F2
 " --------------------------------
 " Neo-tree
 " --------------------------------
-hi NeoTreeGitUntracked  ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
-hi NeoTreeGitModified ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
-hi NeoTreeGitIgnored  ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
-hi NeoTreeWinSeparator ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
-hi NeoTreeIndentMarker ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
-hi NeoTreeDotfile   ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
-hi NeoTreeDirectoryName  ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
+hi NeoTreeGitUntracked      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
+hi NeoTreeGitModified       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
+hi NeoTreeGitIgnored        ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
+hi NeoTreeWinSeparator      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
+hi NeoTreeIndentMarker      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
+hi NeoTreeDotfile           ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
+hi NeoTreeDirectoryName     ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
 
+
+" --------------------------------
+" Ibl
+" --------------------------------
+hi IblIndent ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
+hi IblScope ctermfg=White     ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
 
