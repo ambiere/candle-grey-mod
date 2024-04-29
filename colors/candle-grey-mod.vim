@@ -169,6 +169,6 @@ hi NeoTreeDirectoryName     ctermfg=White    ctermbg=Black    cterm=NONE    guif
 " --------------------------------
 " Ibl
 " --------------------------------
-hi IblIndent ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
-hi IblScope ctermfg=White     ctermbg=Black    cterm=NONE    guifg=#D99962    guibg=#101010    gui=NONE
+hi IblIndent ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#161616    guibg=#101010    gui=NONE
+hi IblScope ctermfg=White     ctermbg=Black    cterm=NONE    guifg=#181818    guibg=#101010    gui=NONE
 
