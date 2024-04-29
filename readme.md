@@ -1,9 +1,9 @@
 ## Dark Monochrome
 
->Dark monochrome colorscheme for vim with a simple accent color
+>Dark monochrome colorscheme for vim <br>with a simple accent color
 inspired by vesper colorscheme.
 
-### Installation
+## Installation
 
 Plugin manager: `Lazyvim`
 ```bash
@@ -18,6 +18,6 @@ Plugin manager: `Lazyvim`
 }
 ```
 
-### License
+## License
 
 [MIT license](https://github.com/ambiere/candle-grey-mod/blob/main/license)
