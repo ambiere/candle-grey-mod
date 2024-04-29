@@ -171,4 +171,5 @@ hi NeoTreeDirectoryName     ctermfg=White    ctermbg=Black    cterm=NONE    guif
 " --------------------------------
 hi IblIndent ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#181818    guibg=#101010    gui=NONE
 hi IblScope ctermfg=White     ctermbg=Black    cterm=NONE    guifg=#181818    guibg=#101010    gui=NONE
+hi MiniIndentscopeSymbol  ctermfg=White     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
 
