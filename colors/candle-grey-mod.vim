@@ -164,6 +164,7 @@ hi NeoTreeWinSeparator      ctermfg=White    ctermbg=Black    cterm=NONE    guif
 hi NeoTreeIndentMarker      ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
 hi NeoTreeDotfile           ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#404040    guibg=#101010    gui=NONE
 hi NeoTreeDirectoryName     ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
+hi NeoTreeGitUnstaged       ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#FFC799    guibg=#101010    gui=NONE
 
 
 " --------------------------------
@@ -171,5 +172,5 @@ hi NeoTreeDirectoryName     ctermfg=White    ctermbg=Black    cterm=NONE    guif
 " --------------------------------
 hi IblIndent ctermfg=White    ctermbg=Black    cterm=NONE    guifg=#181818    guibg=#101010    gui=NONE
 hi IblScope ctermfg=White     ctermbg=Black    cterm=NONE    guifg=#181818    guibg=#101010    gui=NONE
-hi MiniIndentscopeSymbol  ctermfg=White     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
+hi MiniIndentscopeSymbol      ctermfg=White     ctermbg=Black    cterm=NONE    guifg=#8C8C8C    guibg=#101010    gui=NONE
 
